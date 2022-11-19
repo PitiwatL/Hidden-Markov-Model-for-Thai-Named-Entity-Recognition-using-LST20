@@ -6,6 +6,6 @@ Also, more datail, and more understanable version will be update later. Based on
 consecutive hidden states, yields 
 | Name-Entity-Recognition in LST20 | HMM (Uncleaned)|
 | ------------- | ------------- |
-| 85.53% | HMM (Uncleaned)  |
+|     85.53% | HMM (Uncleaned)  |
                               
 Lastly, to develop this project further, we plan to improve this code for the GPU acceleration.                                             
